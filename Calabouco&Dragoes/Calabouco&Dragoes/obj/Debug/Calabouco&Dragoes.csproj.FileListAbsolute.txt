@@ -1,0 +1,7 @@
+C:\Users\guilherme.smcosta\Documents\CalaboucoEDragoes\Calabouco&Dragoes\Calabouco&Dragoes\bin\Debug\Calabouco&Dragoes.exe.config
+C:\Users\guilherme.smcosta\Documents\CalaboucoEDragoes\Calabouco&Dragoes\Calabouco&Dragoes\bin\Debug\Calabouco&Dragoes.exe
+C:\Users\guilherme.smcosta\Documents\CalaboucoEDragoes\Calabouco&Dragoes\Calabouco&Dragoes\bin\Debug\Calabouco&Dragoes.pdb
+C:\Users\guilherme.smcosta\Documents\CalaboucoEDragoes\Calabouco&Dragoes\Calabouco&Dragoes\obj\Debug\Calabouco&Dragoes.csproj.AssemblyReference.cache
+C:\Users\guilherme.smcosta\Documents\CalaboucoEDragoes\Calabouco&Dragoes\Calabouco&Dragoes\obj\Debug\Calabouco&Dragoes.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.smcosta\Documents\CalaboucoEDragoes\Calabouco&Dragoes\Calabouco&Dragoes\obj\Debug\Calabouco&Dragoes.exe
+C:\Users\guilherme.smcosta\Documents\CalaboucoEDragoes\Calabouco&Dragoes\Calabouco&Dragoes\obj\Debug\Calabouco&Dragoes.pdb
