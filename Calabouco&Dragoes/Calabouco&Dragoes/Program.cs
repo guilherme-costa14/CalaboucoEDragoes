@@ -58,6 +58,35 @@ namespace Calabouco_Dragoes
 
             Console.WriteLine("Mais uma sala, você deseja entrar na sala? (S/N)");
             resposta = Console.ReadLine();
+
+            if (resposta == "S")
+            {
+                Console.WriteLine("Eita, monstro grande, logo ele é monstrão!(Birl)");
+                dado_monstro = dado.Next(1, 6);
+                dado_jogador = dado.Next(1, 6);
+
+                if (dado_monstro > dado_jogador)
+                {
+                    Console.WriteLine("Ele te acertou!!!");
+                    vida = vida - 60;
+                }
+                else
+                {
+                    Console.WriteLine("Você é o bixão mesmo, matou o monstrão");
+                }
+            }
+
+            Console.WriteLine("Vida " + vida);
+            if (vida <= 0)
+            {
+                Console.WriteLine("Vacilou, você morreu... guenta nada...");
+            }
+            else
+            {
+                Console.WriteLine("Continua vivo, merece um abraço... mas não!");
+            }
+
+            Console.ReadKey();
         }
     }
 }
